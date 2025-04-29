@@ -64,4 +64,10 @@
 
 <p>Follow the prompts in the installer to complete the setup. Once installed, you can start writing HTML and other web development code.</p>
 
-<p>also install this Extension to get live Preview of your HTML code in your visual code.</p>
+<ul>
+  <p>also install this Extension to get live Preview of your HTML code in your visual code.</p>
+  <p align="center">
+    <img src="https://github.com/Aditya948351/Web_Dev/blob/main/uploads/Screenshot%202025-04-29%20203019.png?raw=true"/>
+  </p>
+
+</ul>
