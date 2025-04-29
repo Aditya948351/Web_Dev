@@ -1,5 +1,4 @@
-# Web_Dev
-this is the web development course repository
+## Web_Dev
 
 <h1>Lets Start with HTML in this concise github based fastrack HTML CSS and JS with Databases like MongoDB, SQL , etc</h1>
 
