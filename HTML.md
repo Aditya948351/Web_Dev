@@ -25,9 +25,13 @@
   </ul>
 </p>
 
-<h1>Lets have a look! </h1>
-  <ul>
-    <li>Go to google chromes any website right click on the website page</li>
-    <li>Click on Inspect</li>
-    <li>now you will see the HTML Code in Elements Section (Other sections for Javascript and CSS)</li>
-  </ul>
+<h1>Let's have a look!</h1>
+<ul>
+  <li>Go to Google Chrome, open any website, and right-click on the webpage.</li>
+  <li>Click on "Inspect".</li>
+  <li>Now you will see the HTML code in the Elements section (Other sections are for JavaScript and CSS).</li>
+    <p align="center">
+      <img src="https://github.com/Aditya948351/Web_Dev/blob/main/uploads/Screenshot%202025-04-29%20194944.png?raw=true" alt="Inspect Screenshot" width="800"/>
+    </p>
+</ul>
+
