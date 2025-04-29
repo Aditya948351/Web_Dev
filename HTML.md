@@ -42,3 +42,26 @@
   <li><strong>JavaScript:</strong> Powers interactivity and dynamic content, like the engine of a car.</li>
 </ul>
 
+<h2>Lets start with installaing HTML Editor and Tools</h2>
+<h3>HTML Editor</h3>
+<p>HTML Editor is a tool where you write all your HTML content. You can use any text editor of your choice, but in this tutorial, we are using Visual Studio Code because it’s lightweight and open-source.</p>
+<ul>
+  <li><strong>Popular Editors:</strong> Notepad++, TextEdit, Sublime Text, Visual Studio Code, WebStorm, and Eclipse.</li>
+</ul>
+
+<h3>Installation of HTML Editor</h3>
+<p>Follow the installation steps for the HTML editor of your choice. For this tutorial, we will be using Visual Studio Code, which is available for free download.</p>
+
+<p>To get started with HTML development, download Visual Studio Code for your operating system. In this tutorial, I will show you how to install it on Windows, but the process is similar for other operating systems.</p>
+
+<h3>Step-by-Step Guide</h3>
+<ul>
+  <li><strong>Step 1:</strong> Search for "Visual Studio Code download" on Google.</li>
+  <li><strong>Step 2:</strong> Click on the official download link for Visual Studio Code.</li>
+  <li><strong>Step 3:</strong> Visual Studio Code is available for multiple operating systems, including Windows, macOS, and Linux.</li>
+  <li><strong>Step 4:</strong> Once downloaded, open the installer. This is the interface you will see after the installation is complete.</li>
+</ul>
+
+<p>Follow the prompts in the installer to complete the setup. Once installed, you can start writing HTML and other web development code.</p>
+
+<p>also install this Extension to get live Preview of your HTML code in your visual code.</p>
