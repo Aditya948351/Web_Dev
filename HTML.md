@@ -35,3 +35,10 @@
     </p>
 </ul>
 
+<h2>Building a Website: HTML, CSS, and JavaScript</h2>
+<ul>
+  <li><strong>HTML:</strong> The skeleton of a webpage, forming the basic structure and frame.</li>
+  <li><strong>CSS:</strong> Adds style and design, giving the webpage color, layout, and appeal.</li>
+  <li><strong>JavaScript:</strong> Powers interactivity and dynamic content, like the engine of a car.</li>
+</ul>
+
