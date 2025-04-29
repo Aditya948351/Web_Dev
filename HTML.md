@@ -86,5 +86,94 @@
 
 
 
+<h2>✅ Doctype Declaration</h2>
+
+<pre><code>&lt;!DOCTYPE html&gt;</code></pre>
+
+<ul>
+  <li>Declares the version of HTML (currently HTML5).</li>
+  <li>Helps browsers render the page correctly.</li>
+  <li>Future-proofing: Useful if standards evolve over time.</li>
+</ul>
+
+<hr />
+
+<h2>🔰 HTML Root Element</h2>
+
+<pre><code>&lt;html&gt; ... &lt;/html&gt;</code></pre>
+
+<ul>
+  <li>The <code>&lt;html&gt;</code> tag is the root of every HTML document.</li>
+  <li>It wraps all other content including head and body.</li>
+</ul>
+
+<hr />
+
+<h2>🧠 Head Section</h2>
+
+<pre><code>
+&lt;head&gt;
+  &lt;title&gt;Page Title&lt;/title&gt;
+  &lt;meta charset="UTF-8"&gt;
+  &lt;link rel="stylesheet" href="styles.css"&gt;
+&lt;/head&gt;
+</code></pre>
+
+<ul>
+  <li>Contains metadata and links to CSS/JS files.</li>
+  <li>Essential for SEO and browser understanding.</li>
+</ul>
+
+<hr />
+
+<h2>🏷️ Title Tag</h2>
+
+<pre><code>&lt;title&gt;My Web Page&lt;/title&gt;</code></pre>
+
+<ul>
+  <li>Displays the page title in the browser tab.</li>
+  <li>Important for user experience and search engines.</li>
+</ul>
+
+<hr />
+
+<h2>🖼️ Body Section</h2>
+
+<pre><code>
+&lt;body&gt;
+  &lt;h1&gt;Welcome&lt;/h1&gt;
+  &lt;p&gt;This is where all visible content appears.&lt;/p&gt;
+&lt;/body&gt;
+</code></pre>
+
+<ul>
+  <li>Everything the user sees lives inside the <code>&lt;body&gt;</code> tag.</li>
+  <li>Includes headings, paragraphs, images, buttons, etc.</li>
+</ul>
+
+<hr />
+
+<h2>📌 Summary – Minimum Valid HTML Page</h2>
+
+<pre><code>
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+  &lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;title&gt;Sample Page&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Hello, World!&lt;/h1&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+<p>Every page should contain at least these elements to ensure proper structure and rendering across browsers.</p>
+
+<hr />
+
+<h3>🚀 Stay Semantic. Stay Professional.</h3>
+
+
 
 
