@@ -69,5 +69,18 @@
   <p align="center">
     <img src="https://github.com/Aditya948351/Web_Dev/blob/main/uploads/Screenshot%202025-04-29%20203019.png?raw=true"/>
   </p>
-
 </ul>
+
+<h2>HTML Execution: Let's Create Our First HTML Program!</h2>
+<p>Let’s mark this as an important milestone: the creation of your first website! And what’s a better way to start than with the traditional "Hello, World!"?</p>
+
+<h3>Step-by-Step Guide</h3>
+<ul>
+  <li><strong>Step 1:</strong> Click on <strong>File</strong> and select <strong>New File</strong> in your editor.</li>
+  <li><strong>Step 2:</strong> Save the file with a name ending in <strong>.html</strong> (for example, <strong>index.html</strong>).</li>
+  <li><strong>Step 3:</strong> Create a folder on your Desktop and save the file there. This will create a workspace for your HTML files.</li>
+  <li><strong>Step 4:</strong> Press <strong>Shift + 1</strong> to type the exclamation mark, and then press <strong>Enter</strong> to automatically generate the HTML boilerplate code in Visual Studio Code.</li>
+</ul>
+
+<p>Once these steps are done, you'll be ready to write your first HTML code!</p>
+
