@@ -13,7 +13,7 @@
         <li>Sets up the Layout.</li>
         <li>Adds Text Images and Links.</li>
         <li>Uses Elements Like <code><code>&lt;p&gt;</code></code></li>
-        <li>Uses elements like <code>&lt;p&gt;</code>,<code>&lt;a&gt;</code> etc.</li>
+        <li>Uses elements like <code>&lt;p&gt;</code>,<code>&lt;a&gt;</code>,etc.</li>
         <li>Organizes Elements in a tree.</li>
       </ul>
     </td>
@@ -43,5 +43,6 @@
 
 <h1 align="center">HTML</h1>
   <li> <a href="https://github.com/Aditya948351/Web_Dev/blob/main/HTML.md">Part 1 : Introduction to HTML</a> </li>
-  <li><a href="https://github.com/Aditya948351/Web_Dev/blob/main/HTML2.md">Part 2 : Starting HTML</a> </li>
+  <li><a href="https://github.com/Aditya948351/Web_Dev/blob/main/HTML1.md">Part 2 : Starting HTML</a> </li>
+  <li><a href="https://github.com/Aditya948351/Web_Dev/blob/main/HTML2.md">Part 3 : Deep Inside HTML</a> </li>
 
