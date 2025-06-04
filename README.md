@@ -4,6 +4,6 @@
 
 <li>
 <h1>HTML</h1>
-<a href="https://github.com/Aditya948351/Web_Dev/blob/main/HTML.md">Part 1 : Introduction to HTML</a>
-<a href="https://github.com/Aditya948351/Web_Dev/blob/main/HTML2.md">Part 2 : Starting HTML</a>
+  <a href="https://github.com/Aditya948351/Web_Dev/blob/main/HTML.md">Part 1 : Introduction to HTML</a>
+  <a href="https://github.com/Aditya948351/Web_Dev/blob/main/HTML2.md">Part 2 : Starting HTML</a>
 </li>
