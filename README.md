@@ -10,9 +10,11 @@
     <td><strong>HTML</strong></td>
     <td>
       <ul>
-        <li>Defines the structure of web pages using elements like <code>&lt;div&gt;</code>, <code>&lt;p&gt;</code>, etc.</li>
-        <li>Uses semantic tags like <code>&lt;header&gt;</code>, <code>&lt;article&gt;</code> to convey meaning.</li>
-        <li>Embeds content such as text, images, videos, and forms.</li>
+        <li>Sets up the Layout.</li>
+        <li>Adds Text Images and Links.</li>
+        <li>Uses Elements Like <code><code>&lt;p&gt;</code></code></li>
+        <li>Uses elements like <code>&lt;p&gt;</code>,<code>&lt;a&gt;</code> etc.</li>
+        <li>Organizes Elements in a tree.</li>
       </ul>
     </td>
   </tr>
