@@ -10,15 +10,38 @@
     <form action="AfterLogin.html" method='GET'>
         <!--Get shows data in URL while POST will not show that data-->
         <label for="username">Username: </label>
-        <input type="text" id="username" name="username"> <br><br>
+        <input type="text" id="username" name="username" placeholder="Your Username" required> <br><br>
 
         <label for="password">Password:  </label>
-        <input type="password" id="password" name="password"> <br><br>
+        <input type="password" id="password" name="password" placeholder="Placeholder tag is shows this" required> <br><br>
 
         <label for="email">Email:  </label>
-        <input type="email" id="email" name="email"> <br><br>
+        <input type="email" id="email" name="email" required> <br><br>
 
         <input type="submit" value="Log In">
+
+        <!--Adding Radio Buttons.-->
+        <p>Select Your Gender</p>
+        <label for="male">Male</label>
+        <input type="radio" name="Gender" id="male" value="Male">
+
+        <label for="Female">Female</label>
+        <input type="radio" name="Gender" id="Female" value="Female">
+
+        <label for="other">Other</label>
+        <input type="radio" name="Gender" id="other" value="Other">
+
+        <!--Dropdown Lists-->
+        <p>Dropdown List</p>
+        <p>Select Your Country</p>
+        <label name="Country" >Select Country</label>
+        <select name="Country" id="country" required>
+            <option value="India">India</option>
+            <option value="Brazil">Brazil</option>
+            <option value="Russia">Russia</option>
+            <option value="China">China</option> 
+            <!--Value is used to send data to the Backend-->           
+        </select>
     </form>
 </body>
 </html>
