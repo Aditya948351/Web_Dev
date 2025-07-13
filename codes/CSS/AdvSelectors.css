@@ -18,6 +18,10 @@ section.my-article > h2 {
 }
 
 /*changing colours of each p's coming after h2 in the paragraph */
-h2+p{
+section.my-article h2+p{
     color: orangered;
+}
+
+ul+p {
+    color: blueviolet;
 }
