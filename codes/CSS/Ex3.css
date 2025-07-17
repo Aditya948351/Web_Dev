@@ -9,6 +9,13 @@ nav {
 }
 
 
+h1,h2,h3 {
+    color: #222;
+}
+h2{
+    border-bottom: 1px solid #444;
+}
+
 a{
     color: #444;
     text-decoration: none;
@@ -28,4 +35,8 @@ nav li {
     font-size: 20px;
     text-transform: uppercase;
 
+}
+
+section {
+    margin-top: 50px;
 }
