@@ -73,11 +73,25 @@ h1, h2, h3 {
     color: #555555;
 }
 
+.btn{
+    display: inline-block;
+    padding: 0.5em;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0.5em 0;
+}
+
+.btn-primary{
+    background-color: #fff;
+    border-radius: 100px;
+}
+
 
 
 /* ########################   header styling   ###################### */
 
 .header{
+    position: relative;
     height: 95vh;
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)) ,url('../img/header-image.jpg');
     background-position: center;
@@ -125,4 +139,25 @@ h1, h2, h3 {
 .header .navbar .nav-item {
     display: inline;
     padding: 1rem;
+}
+
+
+/* ##############    Header     ######################## */
+
+.header-content{
+    position: absolute;
+    text-align: center;
+    border: 2px solid white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.header-content h1{
+    text-transform: uppercase;
+    font-weight: 700;  
+}
+
+.header-content p{
+    text-transform: uppercase;
 }
