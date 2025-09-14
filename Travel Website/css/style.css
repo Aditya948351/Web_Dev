@@ -6,9 +6,65 @@
     box-sizing:border-box;
 }
 
+html {
+    font-size: 62.5%;
+}
+
+
 body{
     font-family: "Montserrat", sans-serif;
+    line-height: 1.7;
 }
+
+ul li{
+    list-style:none;
+}
+
+a{
+    font-size: 1.6rem;
+}
+
+p, li {
+    font-size: 1.6rem;
+    margin-bottom: 0.5em;
+    letter-spacing: 0.15em;
+}
+
+h1, h2, h3 {
+    margin-bottom: 0.5em;
+    letter-spacing: 0.15em;
+    font-weight: 500    ;
+}
+
+
+/* ################## utility classes ###############  */
+.lg-heading {
+    font-size: 3.5rem;
+}
+
+.md-heading {
+    font-size: 2.2rem;
+}
+
+
+.text-red{
+    color: #e63946;
+}
+
+.text-light{
+    color: #f4f4f4;
+}
+
+.text-black{
+    color: #333333;
+}
+
+.text-gray{
+    color: #555555;
+}
+
+
+
 
 .header{
     height: 95vh;
@@ -22,18 +78,21 @@ body{
     border: 2px solid white;
 }
 
-.header .logo, 
-.header .navbar a{
-    color: white;     
-}
 
 .header .navbar .logo{
     float: left;
-}
+    font-size: 3.5rem;
+}   
 
 .header .navbar .nav-items{
     float: right;
 }
+
+.navbar a:link,
+.navbar a:visited{
+    color: #f4f4f4;
+}
+
 
 
 .navbar::after{
