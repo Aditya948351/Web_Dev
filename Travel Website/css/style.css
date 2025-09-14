@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing:border-box;
+    text-decoration: none;
 }
 
 html {
@@ -38,6 +39,14 @@ h1, h2, h3 {
 
 
 /* ################## utility classes ###############  */
+
+.container{
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
 .lg-heading {
     font-size: 3.5rem;
 }
@@ -53,6 +62,7 @@ h1, h2, h3 {
 
 .text-light{
     color: #f4f4f4;
+    text-decoration: none;
 }
 
 .text-black{
@@ -65,6 +75,7 @@ h1, h2, h3 {
 
 
 
+/* ########################   header styling   ###################### */
 
 .header{
     height: 95vh;
@@ -75,7 +86,7 @@ h1, h2, h3 {
 }
 
 .navbar{
-    border: 2px solid white;
+    padding: 1rem;
 }
 
 
@@ -86,11 +97,21 @@ h1, h2, h3 {
 
 .header .navbar .nav-items{
     float: right;
+    margin-top: 1rem;
+    text-transform: uppercase;
 }
 
 .navbar a:link,
 .navbar a:visited{
     color: #f4f4f4;
+}
+
+.navbar a{ 
+    padding-bottom: 0.5rem;
+}
+
+.navbar a:hover {
+    border-bottom: 1px solid #fff;
 }
 
 
@@ -103,4 +124,5 @@ h1, h2, h3 {
 
 .header .navbar .nav-item {
     display: inline;
+    padding: 1rem;
 }
