@@ -161,3 +161,40 @@ h1, h2, h3 {
 .header-content p{
     text-transform: uppercase;
 }
+
+
+
+/* #######################   Showcase Section ########################## */
+.showcase{
+    background: #ddd;
+    padding: 10rem 0;
+}
+
+.row{
+    height: 350px;
+    border: 2px solid red;
+}
+
+.row1{
+    margin-bottom: 10rem;
+}
+
+.row1 .img-box, .row2 .text-box {
+    float: left;
+    width: 50%;
+}
+
+.row2 .img-box, .row1 .text-box {
+    float: right;
+    width: 50%;
+}
+
+.row .img-box{
+    border: 2px solid red;
+    height: 100%;
+}
+
+.row .text-box {
+    border: 2px solid green;
+    padding: 3rem;
+}
