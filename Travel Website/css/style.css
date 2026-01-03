@@ -171,6 +171,7 @@ h1, h2, h3 {
 
 .row{
     height: 350px;
+    box-shadow: 5px 5px 20px 0px #aaa;
     background: #fff;
 }
 
@@ -206,7 +207,61 @@ h1, h2, h3 {
     height: fit-content;
     width: 8rem;
     padding: 1rem;
+    text-transform: uppercase;
     color: #e63946;
     background-color: #fff;
     border: 2px solid #e63946;
+    cursor: pointer;
+    transition: 
+        background-color 0.2s ease,
+        color 0.2s ease,
+        transform 0.1s ease,
+        box-shadow 0.1s ease;
+}
+
+.showcase-button:hover {
+    background-color: #e63946;
+    color: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transform: translateY(-2px);
+}
+
+.features{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    padding: 10rem;
+
+}
+
+.features-wrapper{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.feature-card {
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+    text-align: center;
+}
+
+.feature-box-1 {
+    background-color: aqua;
+}
+
+.feature-box-2 {
+    background-color: lightcoral;
+}
+
+.feature-box-3 {
+    background-color: lightgreen;
+}
+
+.border-line {
+    border: 2px solid #82ff29;
+    display: flex;
+    flex-direction: row;
+    transform: rotateX(90deg);
 }
